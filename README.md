@@ -12,4 +12,4 @@ CarLik is a comprehensive web application designed to efficiently manage a renta
 
 - **Data Integration with PL/SQL**: PL/SQL is employed to facilitate data import from the main database to other databases. It also adds constraints, creates views, and establishes database links for efficient data management.
 
-- **Database Technologies**: JDBC is used for effective database connectivity, and Laravel handles backend logic and API endpoints.
+- **Database Technologies**: JDBC is used for effective database connectivity, and Laravel handles backend logic.
